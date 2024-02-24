@@ -26,7 +26,7 @@
     },
     "NEXTAUTH_URL": {
       "description": "Replace HEROKU_APP_NAME with the name given to your app",
-      "value": "https://HEROKU_APP_NAME.herokuapp.com"
+      "value": "https://ROKU_APP_NAME.herokuapp.com"
     },
     "NEXTAUTH_SECRET": {
       "description": "Cookie encryption key",
